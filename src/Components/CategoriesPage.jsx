@@ -21,7 +21,7 @@ const CategoriesPage = () => {
     "https://images01.nicepagecdn.com/page/10/99/website-template-preview-109962.jpg",
     "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2020/03/fab-blog.png?fit=1200%2C630&ssl=1",
     "https://www.egrovesys.com/blog/wp-content/uploads/sites/2/2020/05/Responsive-eCommerce-website.jpg",
-    "https://www.shutterstock.com/image-vector/premium-white-headphone-ads-on-260nw-1171241968.jpg",
+    "https://pcmecca.com/wp-content/uploads/2023/04/Most-Durable-Gaming-Headsets-1-678x381.jpg",
   ];
 
   // Carousel State & Auto-slide Logic
